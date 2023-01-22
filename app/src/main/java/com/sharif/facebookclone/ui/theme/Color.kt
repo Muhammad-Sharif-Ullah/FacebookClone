@@ -16,4 +16,5 @@ val PrimaryGC1 = Color(0xFF384CFF)
 val PrimaryGC2 = Color(0xFF00A3FF)
 val NotificationC1 = Color(0xFFFF0000)
 val NotificationC2 = Color(0xFF36FF00)
+val IconButtonBG = Color(0xFF222223)
 
